@@ -1,1 +1,2 @@
-hello
+Using Arduino Uno for amateur projects 
+including analog sensors such as potentiometer
